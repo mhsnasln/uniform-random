@@ -1,0 +1,17 @@
+{
+  "name": "uniform-random",
+  "version": "1.0.0",
+  "description": "random number between 2 numbers",
+  "main": "index.js",
+  "keywords": [
+    "uniform",
+    "js",
+    "random",
+    "number"
+  ],
+  "author": {
+    "name": "Muhsin ASLAN",
+    "email": "mhsnasln@gmail.com"
+  },
+  "license": "MIT"
+}
