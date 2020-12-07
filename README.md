@@ -14,8 +14,8 @@
 ```
 const random = require('uniform-random');
 
-const decimalRandom = random(1, 100, 'absolute');
-const roundRandom = random(1, 100);
+const decimalRandom = random(1, 100);
+const roundRandom = random(1, 100, 'absolute');
 
 console.log(decimalRandom); // 23.21234345
 console.log(roundRandom); // 23
