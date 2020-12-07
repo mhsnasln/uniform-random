@@ -9,6 +9,10 @@
     "random",
     "number"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mhsnasln/uniform-random"
+  },
   "author": {
     "name": "Muhsin ASLAN",
     "email": "mhsnasln@gmail.com"
