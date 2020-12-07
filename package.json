@@ -1,6 +1,6 @@
 {
   "name": "uniform-random",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "random number between 2 numbers",
   "main": "index.js",
   "keywords": [
